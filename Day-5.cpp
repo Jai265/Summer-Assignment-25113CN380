@@ -34,7 +34,7 @@ int main()
     }
     cout << endl;
 
-    // Q17-------------------------------------------------------
+    // Q18-------------------------------------------------------
     int num1;
     cout << "Enter a number to find strong number or not : ";
     cin >> num1;
