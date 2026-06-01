@@ -54,7 +54,7 @@ int main()
         cout << "Not strong number" << endl;
     }
 
-    // Q18-------------------------------------------------------
+    // Q19-------------------------------------------------------
     int num2;
     cout << "Enter a number to find its factors : ";
     cin >> num2;
@@ -69,7 +69,7 @@ int main()
     }
     cout << endl;
 
-    // Q19-------------------------------------------------------
+    // Q20-------------------------------------------------------
     int num3, temp2 = 1;
     cout << "Enter a number to find largest Prime factor : ";
     cin >> num3;
